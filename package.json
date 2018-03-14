@@ -1,0 +1,22 @@
+{
+  "name": "ejemplo_npm",
+  "version": "1.0.0",
+  "description": "Esto es un ejemplo de un fichero package.json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lunavi97/ejemplo_npm.git"
+  },
+  "author": "Luciano Nahuel Vitale",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lunavi97/ejemplo_npm/issues"
+  },
+  "homepage": "https://github.com/lunavi97/ejemplo_npm#readme",
+  "dependencies": {
+    "chance": "^1.0.13"
+  }
+}
